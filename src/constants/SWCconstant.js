@@ -1,0 +1,3 @@
+export const SWC_LIST_REQUEST = 'SWC_LIST_REQUEST';
+export const SWC_LIST_SUCCESS = 'SWC_LIST_SUCCESS';
+export const SWC_LIST_FAIL = 'SWC_LIST_FAIL';
