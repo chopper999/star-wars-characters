@@ -1,10 +1,10 @@
 import './App.css';
-import { SWCListScreen } from './screens/SWCListScreen';
+import { ListOfCharacters } from './components/ListOfCharacters/ListOfCharacters';
 function App() {
   return (
-    <div className="App">
-      <SWCListScreen/>
-    </div>
+      <>
+        <ListOfCharacters/>
+      </>
   );
 }
 
